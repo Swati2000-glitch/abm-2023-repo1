@@ -1,12 +1,5 @@
-
-
 Today new day new Work and Learn!!!!!!
-<<<<<<< HEAD
-
-third time please check it
-
-Awesome!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-=======
+third time please check it and Awesome!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Git is awesome!
 third time writing
->>>>>>> 7e41c30a32f1d8c4fe2f66e53ae4ebf89c546362
+
